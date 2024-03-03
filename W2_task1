@@ -1,0 +1,15 @@
+# 1. Write a program that as input accepts a string typed on keyboard and
+# as output it will print this string reversed
+# Example:
+# input: Alice in wonderland
+# output: dnalrednow ni ecilA
+
+x = input("? ")
+def inc():
+    n = len(x)
+    res = ''
+    for number in range(n):
+        var = n - number - 1
+        res = res + x[var]
+    print(res)
+inc()
