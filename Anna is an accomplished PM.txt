@@ -1,0 +1,89 @@
+Anna is an accomplished Project Manager and Scrum Master specializing in Identity and Access Management. She excels in managing multiple projects simultaneously, driving them to successful completion, and turning complex challenges into success stories. Anna is the go-to professional for delivering complex projects on tight deadlines.
+
+She consistently demonstrates an ability to adapt quickly to changes and exhibits professional growth beyond her current Project Management role. Anna is a pivotal point of contact for various teams and stakeholders, managing My Service demand efficiently.
+
+Key Responsibilities and Achievements:
+
+        •       Project Management: Over the past few years, Anna has successfully led multiple high-profile projects, including Azure My Service and On-Premise My Service. Her portfolio includes DOC PROGRAM, Password-less phone sign-in migration, LEGACY-APP decommissioning, EOL remediation, and Penetration Test remediation. She adeptly manages two distinct teams in the My Service domain, as well as a dedicated Migration Factory team.
+        •       Scrum Mastery: As a certified Scrum Master, Anna leads Agile transformations and coaches teams on their Agile journey. She conducts regular retrospectives, ensuring continuous improvement and effective implementation of findings.
+        •       Product Backlog Management: Anna oversees the Product Backlog, negotiates with stakeholders, organizes end-to-end delivery of key results, and prioritizes user stories. Her role extends to shaping the backlog for On-Prem My Service key results, ensuring strategic sprint planning.
+        •       DOC Program Leadership: Anna has led My Service production work for the DOC PROGRAM, serving as the primary contact for the Directories Platform and Platform SME for My Service Platform.
+        •       Cloud-First Strategy: She champions a Cloud-first strategy, collaborating closely with Microsoft. Anna serves as a vital link between Microsoft, UBS My Service, and Azure teams.
+        •       Effective Collaboration: She expertly manages multiple projects concurrently, working seamlessly with TT teams, LO, and application teams. Her efforts have driven significant initiatives like LEGACY-APP decommissioning, Penetration Test findings remediation, and black migration.
+
+
+
+---
+
+Anna is a highly skilled Project Manager and Scrum Master specializing in Identity and Access Management. She excels in managing numerous challenges simultaneously, driving complex projects to successful completion within tight deadlines. Anna is the preferred choice for the delivery of intricate projects.
+
+Her ability to swiftly adapt to changes and her commitment to professional growth beyond her Project Management role are commendable. Anna serves as a crucial point of contact for multiple teams and stakeholders, expertly managing My Service demand.
+
+### Key Responsibilities and Achievements:
+
+- **Project Management:** Anna leads as the Project Manager for Azure My Service and On-premise My Service. Over the past few years, she has successfully driven several high-profile projects and initiatives, such as DOC PROGRAM, Password-less phone sign-in migration, LEGACY-APP decommissioning, EOL remediation, and Penetration Test remediation. Her role necessitates managing two distinct teams within the My Service domain, in addition to a dedicated Migration Factory team.
+
+- **Scrum Mastery:** As a certified Scrum Master, Anna spearheads Agile transformations, coaching teams through their Agile journey. She conducts regular retrospectives, ensuring continuous improvement and the effective implementation of findings.
+
+- **Product Backlog Management:** In her daily role, Anna manages the Product Backlog, negotiates with stakeholders to meet their demands, and organizes the end-to-end delivery of key results. Her versatility shines as she shapes the backlog for On-prem My Service key results, prioritizing user stories and strategically planning sprints.
+
+- **DOC Program Leadership:** Anna has led My Service production work for the DOC PROGRAM, acting as the primary contact for the Directories Platform and Platform SME for My Service Platform.
+
+- **Cloud-First Strategy:** She advocates for a Cloud-first strategy, working closely with Microsoft. Anna bridges the gap between Microsoft, UBS My Service, and Azure teams.
+
+- **Effective Collaboration:** Anna excels in running multiple projects concurrently, collaborating seamlessly with TT teams, LOBs, and application teams. She has significantly contributed to initiatives like LEGACY-APP decommissioning, Penetration Test findings remediation, and Black migration.
+
+---
+
+
+---
+
+### Anna’s Role and Contributions in IT
+
+Anna’s responsibilities and role, as well as her impact and performance, are directly comparable to other Director-level individuals within IT.
+
+- **Rapid Deployment and Critical Security:** Anna led the deployment of the Alfa application, delivering significant value within a quarter by protecting critical service accounts, including IP accounts identified in multiple Red team test reports. Her efforts contributed to the successful closure documentation of the DOC PROGRAM. The vendor praised this as the fastest implementation among their customers, highlighting Anna’s excellence in collaboration.
+
+- **Accelerating Legacy Decommissioning:** In response to DOC PROGRAM requirements, Anna expedited the LEGACY-APP domain decommissioning by two years, completing it by the end of 2023 instead of the planned 2025. She built the strategy, organized the Migration team for decommissioning and migration of application instances, and supported LOBs with NPTAs remediation. This strategic acceleration helped decommission approximately 2,500 accounts effortlessly, reducing the burden on the DOC PROGRAM toolkit.
+
+- **Governance and Dynamic Adaptation:** Working closely with Governance teams, Anna played a crucial role in the BLACK project. She acted as a key liaison between My Service and supporting teams, dynamically adapting to evolving requirements and ensuring seamless delivery.
+
+- **Successful Hardening Projects:** Anna was instrumental in the success of the My Service Hardening project, which was reported to GB and praised by the Red Team in subsequent years. Her ability to adapt and accelerate team efforts transformed a project that had faced months of setbacks into a success within two months.
+
+- **Exceptional Under Pressure:** Despite facing significant workforce challenges in 2022 and 2023, Anna consistently delivered on all objectives. Her resilience and leadership under pressure are noteworthy.
+
+- **Annual Pentest Findings Resolution:** Since 2020, Anna has significantly reduced the number of new Pentest findings each year. She remediated a long-standing critical finding (100386) on Controllers, which had been open for three years, through effective collaboration and planning.
+
+- **Proactive NOPE Remediation:** Anna delivered NOPE remediation for My Service products well ahead of deadlines. Her proactive planning and close collaboration with the operations team ensured that My Service is rarely mentioned in any EOL reports.
+
+- **Leading Password-less Migration:** Anna spearheaded the achievement of Password-less migration through proactive collaboration with User teams. She took ownership of critical activities, such as running early pilots to gather user feedback, ensuring the project's success.
+
+---
+
+
+---
+
+### Anna as a Role Model in Key Areas
+
+#### Client Centricity
+
+- **Versatile Expertise:** Anna is an invaluable resource, excelling both in delivery and technical aspects. She operates effectively at all levels of the hierarchy, achieving outstanding results where others may struggle.
+- **Advocate for Business Value:** She champions the adoption of business value as a key criterion for backlog prioritization, guiding the Agile journey for My Service teams with strategic foresight.
+- **Efficient Demand Management:** Anna ensures clients' urgent demands are prioritized and swiftly implemented, effectively unblocking deliverables. Her exceptional demand management skills have established a reputation for My Service as a supportive and efficient hub for client assistance.
+
+#### Connectivity
+
+- **Central Point of Contact:** Serving as a primary point of contact for My Service, Anna connects teams with the right resources, facilitating problem-solving and enhancing overall team efficiency.
+
+#### Sustainable Impact
+
+- **Risk Control Improvements:** Anna contributed significantly to Infra risk control improvements by introducing a streamlined patching process for My Service. Her efforts reduced patching timelines from over a month to less than a week, mitigating risks and enhancing system reliability.
+
+#### Accountability with Integrity
+
+- **Expert Project Management:** With vast experience, Anna adeptly plans, tracks, and delivers projects under the most challenging circumstances. She successfully manages multiple teams and projects in parallel, consistently achieving great success.
+- **Commitment to Excellence:** Anna repeatedly demonstrates her dedication by going the extra mile to meet objectives. Her passion for projects and willingness to step into various roles ensures seamless team delivery and unwavering commitment. She never lets the ball drop.
+
+#### Innovation (Improve Everyday)
+
+- **Agile Transformation Leader:** As an exceptional Agile Scrum Master, Anna not only understands how to run an Agile organization but also excels in teaching and training teams to master Agile transformations. Her leadership has significantly improved transparency through GitLab dashboards and spearheaded the GitLab migration to Agile for the entire My Service area, covering nine teams and over 60 applications.
